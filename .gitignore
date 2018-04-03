@@ -1,0 +1,4 @@
+build/
+chaindata/
+node_modules/
+*.log
